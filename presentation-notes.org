@@ -1,0 +1,45 @@
+Problem został już przedstawiony
+Przybliżyć rozwiązania
+Dla poszczególnych problemów co można zrobić
+
+[+]
+* Google
+  - Video
+  - Aplikacje
+
+  - Google -> DuckDuckGo
+    - Wyniki wyszukiwania
+    - Kliknięcia
+    - Lokalizacja
+  [+]
+  [+]
+  - Chrome -> Firefox
+    - websites
+    - zawartość stron
+    - obrazki często odwiedzanych stron
+    - WIFI
+    - twój adres
+* Tracking
+  - Browser settings
+    - Do not track me
+  [+]
+  - Disconnect/Privacy Badger/uBlock origin
+  - Https Everywhere
+* Connected Accounts
+  [+]
+  Dane z poszczególnych stron są bezużyteczne.
+  Zyskują wartość w dużej ilości.
+  Poza lokalnymi programami (jak przeglądarki) i trackerami dane można powiązać
+  dzięki danym takim jak email czy nazwa użytkownika.
+
+* Which account's do we want connected?
+  Używając tego samego maila, podając imię, 
+  ustawiając widoczność kont,
+  decydujemy co znajdzie ktoś, kogo interesujemy.
+  Jeżeli gramy z kimś, mamy podany mail,
+  po mailu można nas znaleźć na facebooku.
+  Szukamy pracy, podaliśmy mail
+  Facebook, Instagram, Twitter, Steam
+  Ustawienia prywatności. 
+  Co widzą ludzie, po czym można nas znaleźć
+  Profesjonalny mail, prywatny mail

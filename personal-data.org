@@ -1,0 +1,23 @@
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
+#+OPTIONS: reveal_title_slide:"<h1>%t</h1>%a" toc:nil num:nil
+#+REVEAL_THEME: black
+#+Author: Wojciech Nawa
+#+Email: wojciech.nawa@gmail.com
+#+TITLE: Personal Data - practical approach
+
+* Co można zrobić z problemem?
+
+* Google
+  [[./google-logo.png]]
+** Duck Duck Go
+   [[./DuckDuckGo-Logo.svg]]   
+
+* Chrome
+  #+ATTR_HTML: :height 600px
+  [[./Chrome-Logo.png]]
+** Firefox
+   [[./Mozilla-Firefox-Logo.png]]
+
+* Rozszerzenia
+
+* Identyfikacja kont
